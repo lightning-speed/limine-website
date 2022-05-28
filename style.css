@@ -94,3 +94,15 @@ html {
 	padding: 4px;
 	display: block;
 }
+.end{
+	width:125%;
+	height:120px;
+	background-color: white;
+	position: absolute;
+	bottom:-120px;
+	left:-12.5%;
+	text-align: center;
+	color:rgb(60, 60, 60);
+	display: block;
+
+}
